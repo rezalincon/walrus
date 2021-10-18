@@ -1,0 +1,4 @@
+[06-Sep-2021 06:57:18 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/aayancom/public_html/storage/framework/views/6d2546c84eeddccb7269d871e2a9af32e07e19c3.php on line 57
+[09-Sep-2021 12:16:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/aayancom/public_html/public/index.php on line 2
+[09-Sep-2021 12:16:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/aayancom/public_html/public/index.php on line 2
+[26-Sep-2021 04:42:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in /home/aayancom/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
